@@ -1,0 +1,11 @@
+{
+  "name": "giltube",
+  "version": "1.0.0",
+  "description": "Cloning Yotube with Vanilla and NodeJS",
+  "main": "index.js",
+  "author": "GilPOP",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
